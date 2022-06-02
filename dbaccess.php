@@ -34,6 +34,6 @@ function escape1($str)
     <?php foreach ($rec as $a):?>
     <?=escape1($a)?><br>
     <?php endforeach;?>
-    ADD COMMENT BY zk <br> ADD COMMENT BY ZK 6.2
+    ADD COMMENT BY zk <br> ADD COMMENT BY ZK 6.2.18
  </body>
 </html>
